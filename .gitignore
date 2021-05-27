@@ -1,0 +1,9 @@
+# Visual Studio
+.vs
+
+# Build output
+**/obj
+**/bin
+
+# User settings
+**/*.user

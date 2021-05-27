@@ -1,2 +1,2 @@
-# winapi
-C# interop definitions for various Windows APIs
+# .NET interops
+.NET interop definitions for various native libraries

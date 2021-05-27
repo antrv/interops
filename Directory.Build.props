@@ -1,0 +1,16 @@
+<Project>
+  <!--
+       Some useful links:
+       https://docs.microsoft.com/en-us/visualstudio/msbuild/msbuild-reserved-and-well-known-properties
+  -->
+
+  <PropertyGroup>
+    <!-- Set C# version to the latest for all projects.
+         https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/configure-language-version -->
+    <LangVersion>latest</LangVersion>
+
+    <!-- Enable nullable reference types. -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

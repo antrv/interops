@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net5.0;netcoreapp3.0;netstandard2.0;net46;net45</TargetFrameworks>
+    <AssemblyName>Antrv.Interop.WindowsSDK</AssemblyName>
+    <RootNamespace>Antrv.Interop.WindowsSDK</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Interop\Interop.csproj" />
+  </ItemGroup>
+
+</Project>
